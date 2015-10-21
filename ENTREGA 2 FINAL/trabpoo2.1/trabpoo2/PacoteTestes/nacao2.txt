@@ -1,0 +1,11 @@
+India
+Ofensores
+1 Krishna 30 23
+1 Dalai 24 66
+1 Osho 30 23
+1 Norra 24 66
+Defensores
+1 Shernobil 70 20
+1 Sher 70 20
+1 Nobil 70 20
+

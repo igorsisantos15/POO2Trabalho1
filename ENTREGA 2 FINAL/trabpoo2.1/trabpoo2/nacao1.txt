@@ -1,0 +1,11 @@
+China
+Ofensores
+1 FuXi 30 70
+1 Shenn 24 75
+2 Huan 23 45
+Defensores
+1 Shao 68 54
+1 zhuo 68 54
+1 Ku 25 51
+1 Yao 46 89
+1 Shun 81 61
